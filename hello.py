@@ -1,2 +1,2 @@
 print "Hello World!"
-print "DONTFUCK"
+print "DOFUCK"
